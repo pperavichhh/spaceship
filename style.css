@@ -1,0 +1,38 @@
+*{
+    font-family: 'Kanit', sans-serif;
+}
+
+body{
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+a{
+    color: #007bff;
+}
+
+a:hover{
+    color: #0056b3;
+}
+
+.jumbotron{
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+h2{
+    margin-top: 20px;
+}
+
+
+#friendship{
+    background-color:#163D87;
+    text-align: center;
+    color: white;
+}
+
+
+#contact{
+    background-color: #011C52;
+    
+}
+
